@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21938" started-at="2020-12-30T15:43:43 IST" finished-at="2020-12-30T15:44:05 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21938" started-at="2020-12-30T15:43:43 IST" finished-at="2020-12-30T15:44:05 IST">
+      <class name="OrangeHRM_Demo.LoginPage">
+        <test-method status="PASS" signature="loginWithValidCredentials()[pri:0, instance:OrangeHRM_Demo.LoginPage@3701eaf6]" name="loginWithValidCredentials" duration-ms="21850" started-at="2020-12-30T15:43:43 IST" finished-at="2020-12-30T15:44:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+      </class> <!-- OrangeHRM_Demo.LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
